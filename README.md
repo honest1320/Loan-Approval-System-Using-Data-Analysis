@@ -1,4 +1,3 @@
-![screeplot_pca](https://github.com/honest1320/Loan-Approval-System-Using-Data-Analysis/assets/63172797/59e34bf9-7592-40dd-b676-6db04eb0d2c2)
 ![corrplot](https://github.com/honest1320/Loan-Approval-System-Using-Data-Analysis/assets/63172797/984148e5-4761-41f3-aee5-96ae3e2ec20b)
 <img width="380" alt="tree_conf_mat_test" src="https://github.com/honest1320/Loan-Approval-System-Using-Data-Analysis/assets/63172797/4b35600c-96f6-4e6d-8497-a59b0cff5d61">
 ![tree_plot_test](https://github.com/honest1320/Loan-Approval-System-Using-Data-Analysis/assets/63172797/8ef65c45-4ef1-4b0c-8997-c22a145b52e4)
